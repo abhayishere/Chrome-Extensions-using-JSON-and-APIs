@@ -8,4 +8,4 @@ That's what this extension is for, whenever you get bored or get tired scrolling
 
 2->*****Heavy_Driver*****
 
-After getting your solution accepted at codeforces, there is no better way of appreciating it by saying "TUM TOH BADE HEAVY DRIVER HO BHAI", that's what this extension is going to do for you.
+After getting your solution accepted at codeforces, there is no better way of appreciating it by someone saying "TUM TOH BADE HEAVY DRIVER HO BHAI" to you, that's what this extension is going to do for you.
